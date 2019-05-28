@@ -1,0 +1,6 @@
+{
+    "name" : "LinkScanner",
+    "version" : "1.0",
+    "description" : "Shows QR Code for the current browser tab!",
+    "manifest_version" : 2
+}
