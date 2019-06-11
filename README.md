@@ -2,7 +2,7 @@
 
 # LINK SCANNER
 </div>
-A extention that would help you move webpages from your desktop to your phone with one click. 
+A extention that would help you move webpages from your desktop to your phone with one click. ( No more sending yourself the link through email or whatsapp)
 
 
 ## Intallation 
@@ -15,10 +15,11 @@ A extention that would help you move webpages from your desktop to your phone wi
 2. Scan the QR Code using your mobile / other device and get the link.
 
 
-
 ## Dependencies
 * This extention uses the [QR Code Generator](https://www.the-qrcode-generator.com/).
 
 ## Requirements
 * No requirement other than a QR Code Scanner and internet connectivity.
+
+
 
