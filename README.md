@@ -22,4 +22,4 @@ A extention that would help you move webpages from your desktop to your phone wi
 * No requirement other than a QR Code Scanner and internet connectivity.
   
 ## Demo
-![demo](https://github.com/kumaraditya1999/LinkScanner/blob/master/assets/images/demo.png)
+![demo](https://github.com/kumaraditya1999/LinkScanner/blob/master/assets/images/demo.jpg)
